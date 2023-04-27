@@ -24,7 +24,3 @@
 ![](https://skillicons.dev/icons?i=linux)
 ## GameDev Skills
 ![](https://skillicons.dev/icons?i=unity,unreal,blender)
-
-## :computer: Stats
-![Hyped-MC' GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyped-MC&show_icons=true&layout=compact&theme=github_dark&count_private=true)
-![Hyped-MC' Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyped-MC&show_icons=true&layout=compact&theme=github_dark&count_private=true)
