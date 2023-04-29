@@ -1,4 +1,4 @@
-## :wave: Wassup, I'm Hyped-MC
+## :wave: Wassup, I'm Jobs
 - I'm a Java Minigame Developer.
 - Now I'm Systems Analysis Director of Computy Tecnologia LTDA
 
