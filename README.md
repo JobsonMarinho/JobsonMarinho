@@ -10,7 +10,7 @@
 ![](https://skillicons.dev/icons?i=dotnet,electron,spring,laravel,nextjs,nestjs)
 ## HTTP Servers Skills
 ![](https://skillicons.dev/icons?i=nginx,maven)
-## Build Skills
+## Dependency Manager Skills
 ![](https://skillicons.dev/icons?i=maven,gradle)
 ## Database Skills
 ![](https://skillicons.dev/icons?i=sqlite,postgres,mysql)
