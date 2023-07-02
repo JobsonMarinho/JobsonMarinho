@@ -2,6 +2,11 @@
 - I'm a Kotlin Developer.
 - Now I'm Systems Analysis Director of Computy Tecnologia LTDA
 
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/923566450797592578?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/923566450797592578)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/923566450797592578)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/923566450797592578)](https://dev.discordprofiles.me/openspotify/923566450797592578)
+
 ## Languages Skills
 ![](https://skillicons.dev/icons?i=kotlin,java,cs,lua,js,php)
 ## Libraries Skills
