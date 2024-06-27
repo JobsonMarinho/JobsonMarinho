@@ -11,7 +11,7 @@
 </div>  
 
 ## Languages Skills
-![](https://skillicons.dev/icons?i=kotlin,java,cs,lua,js,php)
+![](https://skillicons.dev/icons?i=kotlin,java,cs,lua,js,php,cpp)
 ## Libraries Skills
 ![](https://skillicons.dev/icons?i=react,nodejs)
 ## Frameworks Skills
