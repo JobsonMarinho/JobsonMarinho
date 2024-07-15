@@ -1,12 +1,15 @@
 ## :wave: Wassup, I'm Jobs
-- I'm a Kotlin Developer.
-- Now I'm Systems Analysis Director of Computy Tecnologia LTDA
+- I'm a Kotlin/Backend Developer.
+- CEO @GladMC
+- CTO @StarDix
+- Now I'm Director of Software Engineer of Computy Tecnologia LTDA
+- Yes, all my repositories as private 🔒
 
 ##
 <div>
-  <a href="https://www.instagram.com/jobsonhe4rt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/u3yWYmJA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:jobsonh4rt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://fb.gladmc.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://dc.gladmc.com" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="mailto:gladmc.no.reply@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jobson-marinho-8741701b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     
 </div>  
 
