@@ -11,11 +11,11 @@
 </div>  
 
 ## Languages Skills
-![](https://skillicons.dev/icons?i=kotlin,java,cs,ts,lua,rust,js,php,cpp)
+![](https://skillicons.dev/icons?i=kotlin,java,cs,lua,ts,js,php,rust,cpp)
 ## Libraries Skills
 ![](https://skillicons.dev/icons?i=react,nodejs)
 ## Frameworks Skills
-![](https://skillicons.dev/icons?i=dotnet,tauri,electron,spring,laravel,nextjs,nestjs,vite,vue)
+![](https://skillicons.dev/icons?i=dotnet,tauri,electron,spring,laravel,nextjs,nestjs,vue)
 ## HTTP Servers Skills
 ![](https://skillicons.dev/icons?i=nginx,maven)
 ## Dependency Manager Skills
@@ -37,4 +37,4 @@
 ## AudioVisual Skills
 ![](https://skillicons.dev/icons?i=pr,ae,ps)
 ## Others Skills
-![](https://skillicons.dev/icons?i=kafka,docker,kubernetes,discord,bots,graphql,hibernate,styledcomponents,vercel)
+![](https://skillicons.dev/icons?i=vite,kafka,docker,kubernetes,discord,bots,graphql,styledcomponents,vercel)
