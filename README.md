@@ -11,17 +11,19 @@
 </div>  
 
 ## Languages Skills
-![](https://skillicons.dev/icons?i=kotlin,java,cs,lua,js,php,cpp)
+![](https://skillicons.dev/icons?i=kotlin,java,cs,ts,lua,rust,js,php,cpp)
 ## Libraries Skills
 ![](https://skillicons.dev/icons?i=react,nodejs)
 ## Frameworks Skills
-![](https://skillicons.dev/icons?i=dotnet,electron,spring,laravel,nextjs,nestjs)
+![](https://skillicons.dev/icons?i=dotnet,tauri,electron,spring,laravel,nextjs,nestjs,vite,vue)
 ## HTTP Servers Skills
 ![](https://skillicons.dev/icons?i=nginx,maven)
 ## Dependency Manager Skills
-![](https://skillicons.dev/icons?i=gradle,maven)
+![](https://skillicons.dev/icons?i=gradle,maven,npm,pnpm,yarn)
 ## Database Skills
 ![](https://skillicons.dev/icons?i=sqlite,postgres,mysql,redis)
+## ORM Skills
+![](https://skillicons.dev/icons?i=prisma,hibernate,TypeORM)
 ## Website Skills
 ![](https://skillicons.dev/icons?i=html,css,tailwind)
 ## VCS Skills
@@ -29,9 +31,9 @@
 ## IDE Skills
 ![](https://skillicons.dev/icons?i=idea,vscode,eclipse,visualstudio,androidstudio)
 ## OS Skills
-![](https://skillicons.dev/icons?i=linux)
+![](https://skillicons.dev/icons?i=linux,debian,ubuntu,arch)
 ## GameDev Skills
-![](https://skillicons.dev/icons?i=unity,unreal,blender)
+![](https://skillicons.dev/icons?i=unity,unreal,blender,robloxstudio)
 ## AudioVisual Skills
 ![](https://skillicons.dev/icons?i=pr,ae,ps)
 ## Others Skills
