@@ -18,11 +18,11 @@
 ## Libraries Skills
 ![](https://skillicons.dev/icons?i=react,nodejs)
 ## Frameworks Skills
-![](https://skillicons.dev/icons?i=dotnet,tauri,electron,spring,laravel,nextjs,nestjs,vue)
+![](https://skillicons.dev/icons?i=dotnet,tauri,electron,spring,laravel,nextjs,nestjs,vue,angular,svelte)
 ## HTTP Servers Skills
 ![](https://skillicons.dev/icons?i=nginx,maven)
 ## Dependency Manager Skills
-![](https://skillicons.dev/icons?i=gradle,maven,npm,pnpm,yarn)
+![](https://skillicons.dev/icons?i=gradle,maven,npm,pnpm,yarn,bun)
 ## Database Skills
 ![](https://skillicons.dev/icons?i=sqlite,postgres,mysql,redis)
 ## ORM Skills
