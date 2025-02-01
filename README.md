@@ -38,4 +38,4 @@
 ## AudioVisual Skills
 ![](https://skillicons.dev/icons?i=pr,ae,ps)
 ## Others Skills
-![](https://skillicons.dev/icons?i=vite,kafka,docker,discord,bots,vercel,rabbitmq,firebase,flutter,grafana,prometheus,kubernetes,ktor,regex)
+![](https://skillicons.dev/icons?i=vite,kafka,docker,discord,bots,vercel,rabbitmq,firebase,flutter,grafana,prometheus,kubernetes,ktor,regex,supabase)
