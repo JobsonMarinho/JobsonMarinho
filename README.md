@@ -26,7 +26,7 @@
 ## ORM Skills
 ![](https://skillicons.dev/icons?i=prisma,hibernate,TypeORM,drizzle)
 ## Website Skills
-![](https://skillicons.dev/icons?i=html,css,tailwind)
+![](https://skillicons.dev/icons?i=html,css,tailwind,styledcomponents)
 ## VCS Skills
 ![](https://skillicons.dev/icons?i=git,github)
 ## IDE Skills
