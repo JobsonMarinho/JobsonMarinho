@@ -12,11 +12,11 @@
 </div>  
 
 ## Languages Skills
-![](https://skillicons.dev/icons?i=kotlin,java,cs,lua,ts,js,php,rust,cpp,py)
+![](https://skillicons.dev/icons?i=kotlin,java,cs,lua,ts,js,php,rust,cpp,py,ruby,go)
 ## Libraries Skills
 ![](https://skillicons.dev/icons?i=react,nodejs)
 ## Frameworks Skills
-![](https://skillicons.dev/icons?i=dotnet,tauri,electron,spring,laravel,nextjs,nestjs,vue,angular,svelte,express,elysia,fastapi)
+![](https://skillicons.dev/icons?i=dotnet,tauri,electron,spring,laravel,nextjs,nestjs,vue,angular,svelte,express,elysia,fastapi,rails)
 ## HTTP Servers Skills
 ![](https://skillicons.dev/icons?i=nginx,maven)
 ## Dependency Manager Skills
