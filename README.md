@@ -4,6 +4,7 @@
 - CTO @StarDix
 - Now I'm Director of Software Engineer of Computy Tecnologia LTDA
 - Yes, all my repositories are private 🔒
+- Owner of [MineTools](https://minetools.dev/)
 
 ##
 <div>
