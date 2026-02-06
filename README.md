@@ -3,6 +3,7 @@
 - Owner of [MineTools](https://minetools.dev/)
 - CEO @GladMC
 - CTO @StarDix
+- CTO @Hyterion
 - Now I'm Director of Software Engineer of Computy Tecnologia LTDA
 - Yes, all my repositories are private 🔒
 
